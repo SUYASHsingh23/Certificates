@@ -11,3 +11,5 @@ Introduction to Cybersecurity : https://www.credly.com/badges/2502c6b8-ef56-45c6
 Introduction to MongoDB : https://learn.mongodb.com/c/UU88EKhiQxWCS4CCxpI0Ww
 
 Data Science : https://courses.cognitiveclass.ai/certificates/c09fe329a9da49aaacde6bdecd0c289a
+
+Smart India Hackathon: 
