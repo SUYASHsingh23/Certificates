@@ -13,3 +13,5 @@ Introduction to MongoDB : https://learn.mongodb.com/c/UU88EKhiQxWCS4CCxpI0Ww
 Data Science : https://courses.cognitiveclass.ai/certificates/c09fe329a9da49aaacde6bdecd0c289a
 
 Smart India Hackathon 
+
+Introduction to Career Skills in Data Analytics: https://www.linkedin.com/learning/certificates/799fe8041b6d36df10cafba5d5f73229b2a11020f11aba028c01cd9d2122ab41
