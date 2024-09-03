@@ -16,4 +16,4 @@ Smart India Hackathon
 
 Introduction to Career Skills in Data Analytics: https://www.linkedin.com/learning/certificates/799fe8041b6d36df10cafba5d5f73229b2a11020f11aba028c01cd9d2122ab41
 
-Oracle Certified Professional: Java SE 11 Developer
+Oracle Certified Professional: Java SE 11 Developer : https://www.linkedin.com/in/suyash-singh-65854326b/overlay/1725367235938/single-media-viewer/?profileId=ACoAAEIcB-QBKHiYCUVfSyGf-Oy2U1WTOYiPxJU
