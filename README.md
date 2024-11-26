@@ -19,3 +19,6 @@ Introduction to Career Skills in Data Analytics: https://www.linkedin.com/learni
 Oracle Certified Professional: Java SE 11 Developer : https://www.linkedin.com/in/suyash-singh-65854326b/overlay/1725367235938/single-media-viewer/?profileId=ACoAAEIcB-QBKHiYCUVfSyGf-Oy2U1WTOYiPxJU
 
 J.P. Morgan - Software Engineering Job Simulation : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_eLDNheCRWG5GzvsB6_1725421778823_completion_certificate.pdf
+
+
+Ethical Hacking Essentials (EHE) v1 : https://www.linkedin.com/in/suyash-singh-65854326b/details/certifications/1732621714225/single-media-viewer/?profileId=ACoAAEIcB-QBKHiYCUVfSyGf-Oy2U1WTOYiPxJU
